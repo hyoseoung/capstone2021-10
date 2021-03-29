@@ -4,13 +4,17 @@
 **팀페이지 주소** https://kookmin-sw.github.io/capstone-2021-10/
 
 ---
+
 ## Project Introduction
 
 초보 음악 연주자를 위해 음원을 분석하여 사용자에 음역대나, 연주 실력에 맞게 추천곡, 악보, 코드 진행 등 필요한 정보를 제공해주는 프로그램
+
 ---
+
 ## Abstract
 
 ---
+
 ## Memders
 김초혜
 
@@ -26,7 +30,7 @@
 ##소개 영상
 ![introduce_video](./UIUX/introduce_video.mp4)
 
-###4. 사용법
+### 4. 사용법
 
 소스코드제출시 설치법이나 사용법을 작성하세요.
 
