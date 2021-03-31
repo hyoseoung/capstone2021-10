@@ -1,6 +1,6 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=352765&assignment_repo_type=GroupAssignmentRepo)
 ### 1. Take_Out
-![logo_image](./UIUX/logo_image.png =450x450)
+<img src="/UIUX/logo_image.png" width="40%" height="30%" title="logo_image_size" alt="logo_image"></img>
 **팀페이지 주소** https://kookmin-sw.github.io/capstone-2021-10/
 
 
